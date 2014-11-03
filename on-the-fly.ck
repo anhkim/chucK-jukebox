@@ -1,3 +1,6 @@
+// Author: Anh Kim H.
+// Date: Nov 1, 2014
+
 // synthesis path
 SinOsc foo => NRev r => dac;
 .5 => foo.gain;
@@ -6,7 +9,7 @@ SinOsc foo => NRev r => dac;
 //an array as a grab bag of freq we going to need, so
 // we can set the freq into a musical register,
 // and set that as a freq of the sin wave
-[0, 2, 4, 7] @=> int hi[];
+[0, 2, 4,7,11] @=> int hi[];
 
 while(true) {
     // change parameters true

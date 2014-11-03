@@ -1,4 +1,6 @@
-// hello Sine is our hello world equivalent in chucK
+// Author: Anh Kim H.
+// Date: Nov 1, 2014
+// Info: hellosine is our hello world equivalent in chucK
 
 // this will be printed in the console monitor of the IDE
 <<< "Hello World" >>>;

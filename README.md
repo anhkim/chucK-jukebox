@@ -17,5 +17,4 @@ I used the following resources to help me learn chucK:
 4.  [Official Manual](http://chuck.cs.princeton.edu/release/files/chuck_manual.pdf)
 
 ### Sound Samples
-1. on-the-fly.ck  
-<object width="148" height="44"><param name="movie" value="http://vocaroo.com/player.swf?playMediaID=s0Ocqn8y2k7q&autoplay=0"></param><param name="wmode" value="transparent"></param><embed src="http://vocaroo.com/player.swf?playMediaID=s0Ocqn8y2k7q&autoplay=0" width="148" height="44" wmode="transparent" type="application/x-shockwave-flash"></embed></object><br><a href="http://vocaroo.com" style="font-size:xx-small;" title="Vocaroo Voice Recorder">Voice Recorder &gt;&gt;</a>
+1. on-the-fly.ck:  (http://vocaroo.com/i/s0Ocqn8y2k7q)
